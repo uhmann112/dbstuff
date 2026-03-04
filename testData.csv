@@ -1,16 +1,11 @@
-id,name,email,age,city,created_at
-1,Alice Johnson,alice@example.com,28,New York,2024-01-15
-2,Bob Smith,bob@example.com,34,Los Angeles,2024-02-03
-3,Carol White,carol@example.com,22,Chicago,2024-03-21
-4,David Brown,david@example.com,45,Houston,2024-04-10
-5,Eva Martinez,eva@example.com,31,Phoenix,2024-05-07
-6,Frank Lee,frank@example.com,27,Philadelphia,2024-06-18
-7,Grace Kim,grace@example.com,39,San Antonio,2024-07-25
-8,Henry Davis,henry@example.com,52,San Diego,2024-08-14
-9,Isla Thompson,isla@example.com,24,Dallas,2024-09-30
-10,Jack Wilson,jack@example.com,36,San Jose,2024-10-11
-11,Karen Moore,karen@example.com,29,Austin,2024-11-05
-12,Liam Taylor,liam@example.com,41,Jacksonville,2024-12-01
-13,Mia Anderson,mia@example.com,33,Columbus,2024-01-22
-14,Noah Jackson,noah@example.com,26,Charlotte,2024-02-17
-15,Olivia Harris,olivia@example.com,48,Indianapolis,2024-03-09
+id,name,nachname,alter,geburtsdatum,email,telefon,gehalt,is_aktiv,bewertung,gewicht_kg,groesse_cm,letzter_login,notizen,postleitzahl,land,kontonummer,prozent,farbe,ip_adresse
+1,Max,Mustermann,34,1990-03-15,max.mustermann@email.de,+49 151 12345678,52000.75,true,4.5,82.3,181,2024-11-20 08:32:11,"freundlich, pünktlich",80331,Deutschland,DE12345678901234567890,73.4,blau,192.168.1.1
+2,Anna,Schmidt,28,1996-07-22,anna.schmidt@web.de,+49 172 98765432,38500.00,true,3.8,61.0,167,2025-01-05 14:10:45,"sehr zuverlässig",20095,Deutschland,DE98765432109876543210,45.2,rot,10.0.0.42
+3,Luca,Bauer,45,1979-12-01,luca.bauer@gmx.de,+49 160 55544433,87200.50,false,2.1,95.7,176,2023-08-30 09:00:00,,60311,Deutschland,DE11223344556677889900,88.9,grün,172.16.0.5
+4,Sophie,Müller,19,2005-05-10,sophie.mueller@outlook.com,+49 176 11223344,15000.00,true,5.0,55.2,163,2025-02-28 22:55:03,"Student, Teilzeit",70173,Deutschland,DE55667788990011223344,12.0,gelb,192.168.0.101
+5,Jonas,Weber,52,1972-09-30,jonas.weber@firma.de,+49 163 44556677,120000.00,true,4.9,78.8,179,2025-03-01 06:45:22,"CEO, VIP-Kunde",10115,Deutschland,DE99887766554433221100,99.1,schwarz,8.8.8.8
+6,Mia,Fischer,31,1993-01-18,mia.fischer@yahoo.de,+49 157 33221100,44800.25,false,3.3,68.4,170,2024-06-14 17:20:59,"beurlaubt",40210,Deutschland,DE00112233445566778899,60.7,weiß,255.255.255.0
+7,Noah,Hoffmann,67,1957-11-03,noah.hoffmann@t-online.de,+49 151 77889900,0.00,false,1.0,102.1,183,2022-03-10 11:11:11,"Rentner, inaktiv",50667,Deutschland,DE77889900112233445566,5.5,orange,127.0.0.1
+8,Emma,Wagner,23,2001-04-27,emma.wagner@student.de,+49 174 66554433,22300.00,true,4.2,59.9,165,2025-03-03 20:01:37,"Praktikum läuft noch",30159,Deutschland,DE44332211009988776655,33.3,lila,192.168.2.200
+9,Felix,Braun,38,1986-08-14,felix.braun@consulting.de,+49 162 22334455,65000.00,true,3.6,88.0,188,2025-02-10 13:33:00,"Consultant, remote",01067,Deutschland,DE22334455667788990011,50.0,grau,10.10.10.10
+10,Laura,Zimmermann,41,1983-02-09,laura.z@medizin.de,+49 170 99001122,73400.80,true,4.7,64.3,172,2025-03-02 07:58:44,"Ärztin, Nachtschicht",04109,Deutschland,DE66778899001122334455,91.8,pink,172.31.0.1
